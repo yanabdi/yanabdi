@@ -1,4 +1,4 @@
-# Hi there, I'm Yan
+# Hi there, I'm Yan 😛
 
 ## I'm currently working on...
 - A webapp called Transaction Entry.
