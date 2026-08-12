@@ -2,7 +2,12 @@
 
 ## I'm currently working on...
 - A webapp called Transaction Entry.
-- Developing skills related to Product Management and Game Development
+- Developing skills related to Product Management and Game Development.
+
+## I'm currently learning...
+- TypeScript, HTML, CSS, and the like.
+- Figma Design.
+- Effective AI prompting.
 
 <!--
 **yanabdi/yanabdi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
