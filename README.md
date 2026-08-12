@@ -1,5 +1,8 @@
+# Hi there, I'm Yan
+
 ## I'm currently working on...
-Expanding my development skills specifically with video games.
+- A webapp called Transaction Entry.
+- Developing skills related to Product Management and Game Development
 
 <!--
 **yanabdi/yanabdi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
